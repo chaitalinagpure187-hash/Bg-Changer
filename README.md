@@ -17,7 +17,7 @@ A simple React application that changes the background color of the page when a 
 
 ## 📸 Screenshot
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](src/assets/screenshot.png)
 
 ## ▶️ Run Locally
 
